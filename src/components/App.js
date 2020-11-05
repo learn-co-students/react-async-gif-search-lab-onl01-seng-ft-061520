@@ -2,6 +2,7 @@ import React from 'react'
 
 import NavBar from './NavBar'
 
+// Will complete this lab later
 // the App component should render out the GifListContainer component 
 
 const App = () => {
